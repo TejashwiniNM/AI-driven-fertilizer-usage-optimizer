@@ -49,3 +49,7 @@ Nitrogen = 90
 Phosphorus = 30
 Potassium = 40
 zer
+
+Note: The .ipynb notebook may not render properly on GitHub due to size.
+Please download and open it locally in Jupyter/VS Code to view execution.
+The .pkl model files are binary and should be loaded in Python using joblib.load().
